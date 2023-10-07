@@ -1,0 +1,17 @@
+1   |The Secrets of the Self  |Allama Iqbal         |01/08/2010  |0     |
+2   |1984                     |George Orwell        |01/08/2014  |0     |
+3   |Shikwa                   |Allama Iqbal         |01/08/2010  |4567  |
+4   |Animal Farm              |George Orwell        |01/08/2010  |0     |
+5   |The Iliad                |Homer                |11/05/2013  |0     |
+6   |Jawab Shikwa             |Allama Iqbal         |21/02/2012  |0     |
+9   |The late Mattia Pascal   |Luigi Pirandello     |29/02/2012  |0     |
+10  |Jawab Shikwa             |Allama Iqbal         |29/02/2016  |0     |
+11  |1984                     |George Orwell        |28/02/2018  |0     |
+13  |Harry Potter 1           |J. K. Rowling        |01/09/2013  |0     |
+14  |Romeo and Juliet         |William Shakespeare  |25/07/2018  |0     |
+15  |Romeo and Juliet         |William Shakespeare  |25/08/2018  |4567  |
+16  |Divertudios v.1          |Juan Cabeza          |12/12/2015  |0     |
+17  |Divertudios v.2          |Juan Cabeza          |12/12/2016  |0     |
+18  |Harry Potter in cave     |J. K. Rowling        |18/03/2011  |0     |
+20  |The Odyssey              |Homer                |28/02/2018  |0     |
+21  |Harry Potter's end       |J. K. Rowling        |01/09/2018  |9009  |
